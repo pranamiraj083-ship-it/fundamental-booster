@@ -37,7 +37,7 @@ Fundamental-Booster/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Fundamental-Booster.git
+git clone https://github.com/pranamiraj083-ship-it/fundamental-booster.git
 ```
 
 2. Open the project folder:
